@@ -77,6 +77,20 @@
   ```sh
   git add --all
   ```
+* Izvršiti promene 
+
+  ```sh
+  git commit 
+  ```
+  ili izvršiti promene sa porukom (preporučeno)
+  ```sh
+  git commit -m "Dodao sam sliku u repository"
+  ```
+* Uploadovati konačne izmene 
+
+  ```sh
+  git push
+  ```
 
 
 
