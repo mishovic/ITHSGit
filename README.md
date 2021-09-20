@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/mishovic/ITHSGit">
-    <img src="git/assets/img/logo.png" alt="Logo" width="80" height="80">
+    <img src="git/assets/img/logo.png" alt="Logo" width="auto" height="80">
   </a>
   <h3 align="center">ITHSGit</h3>
 </p>
