@@ -68,6 +68,15 @@
   ```sh
   git clone https://github.com/mishovic/ITHSGit.git
   ```
+* Dodati fajl na GitHub repository
+
+  ```sh
+  git add photo.jpg
+  ```
+  ili dodati sve izmene i fajlove
+  ```sh
+  git add --all
+  ```
 
 
 
