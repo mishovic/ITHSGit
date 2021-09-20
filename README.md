@@ -1,4 +1,3 @@
-<!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <a href="https://github.com/mishovic/ITHSGit">
@@ -7,7 +6,7 @@
   <h3 align="center">ITHSGit - Information Technology High School</h3>
 </p>
 
-<!-- GETTING STARTED -->
+
 ## Instalacija Git-a
 
 * Kopirati link ispod i uneti ga u address bar
@@ -16,7 +15,7 @@
   https://github.com/git-for-windows/git/releases/download/v2.33.0.windows.2/Git-2.33.0.2-64-bit.exe
   ```
 * Na instalaciji samo kliktati NEXT  
-<!-- USAGE EXAMPLES -->
+
 ## Korišćenje i komande Git-a
 
 * Povući repository sa GitHuba (Git Clone)
@@ -47,8 +46,15 @@
   ```sh
   git push
   ```
-  
-<!-- CONTACT -->
+
+## Potencijalne greške
+  ```sh
+  git pull --rebase origin main
+  ```
+  ```sh
+  git push origin main
+  ```
+
 ## People / Contact
 
 Aleksandar Radmanovac - [@username](https://github.com/)  
