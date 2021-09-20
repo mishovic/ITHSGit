@@ -93,10 +93,7 @@
   ```
   
 <!-- CONTACT -->
-## Contact
+## People / Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
-
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
-
-
+Lazar Mišović - [@mishovic](https://github.com/mishovic)
+Zoran Lončarević - [@username](https://github.com/)
