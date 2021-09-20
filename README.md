@@ -4,7 +4,7 @@
   <a href="https://github.com/mishovic/ITHSGit">
     <img src="git/assets/img/logo.png" alt="Logo" width="auto" height="80">
   </a>
-  <h3 align="center">ITHSGit</h3>
+  <h3 align="center">ITHSGit - Information Technology High School</h3>
 </p>
 
 <!-- GETTING STARTED -->
